@@ -1,5 +1,5 @@
 
-var save_name = "bolt_stress_model_11.csv";
+var save_name = "bolt_stress_model_14.csv";
 var save_path = "C:\\Users\\camp.seats\\OneDrive - Arup\\PROJ\\Projects\\3 - FEA General\\1 - From AOSM\\6 - results\\"+save_name
 var f = new File(save_path, File.WRITE);
 

@@ -5,7 +5,7 @@
 
 
 
-var save_name = "LC13_up.csv";
+var save_name = "LC11_edit_t.csv";
 var save_path = "C:\\Users\\camp.seats\\OneDrive - Arup\\PROJ\\Projects\\3 - FEA General\\1 - From AOSM\\6 - results\\"+save_name
 
 var csv_array  = File.ReadCSV(save_path);
